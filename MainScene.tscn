@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://bi4te28f1lqfy"]
+
+[ext_resource type="Texture2D" uid="uid://b0f0yst3mcefu" path="res://resources/doppo.jpg" id="1_8qj80"]
+
+[node name="Node2D" type="Node2D"]
+position = Vector2(-353, 199)
+
+[node name="Doppo" type="Sprite2D" parent="."]
+position = Vector2(936.5, 125)
+scale = Vector2(5.10667, 1.85143)
+texture = ExtResource("1_8qj80")
